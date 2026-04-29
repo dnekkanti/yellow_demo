@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+
+<fcpxml version="1.13">
+    <resources>
+        <format id="r1" name="FFVideoFormat720p30" frameDuration="1001/30030s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r2" name="yellow - 11" uid="3CEFB979-C89D-E3A1-D79A-11645475B60A" start="0s" duration="3703/600s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="7C76D9398FA566EF330F9339A81286CE" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2011.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAAGIQrLtgg0DyleObRgRllEFqTMTvyV2240JnsYAjSVQAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDExLm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAciaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg5/gAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <asset id="r3" name="yellow - 12" uid="22EBE179-1AD3-2670-F2A0-7104D7AA9F15" start="0s" duration="19078/600s" hasVideo="1" format="r4" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="9973614847C60A768CA045788318956E" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2012.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAP9nhtFwXXm/Lt9k5C+3RhSlcWyT1NDwQP29dausrweUAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDEyLm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAcyaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg6fQAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="P3D65 (12-1-6)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <format id="r4" name="FFVideoFormat3840x2160p60" frameDuration="10/600s" width="3840" height="2160" colorSpace="12-1-6 (P3D65 (12-1-6))"/>
+        <effect id="r5" name="Custom LUT" uid="FxPlug:14B39AEF-607D-42DF-98DD-DB3DD345E925"/>
+        <asset id="r6" name="yellow - 13" uid="D2286AD6-7763-3795-A728-FE28343E1EC4" start="0s" duration="19078/600s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="BAA88D60B4DB7BDAD5D1E242C8AE84EF" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2013.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAL7SOI8zwduNTq8WzOll05TpDfxybu3O/0M/TvPDZz+NAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDEzLm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAdCaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg6fQAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <format id="r7" name="FFVideoFormat3840x2160p60" frameDuration="10/600s" width="3840" height="2160" colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r8" name="yellow - 14" uid="BB73FDC1-BC9C-D11A-FAA3-20D6C002F9AE" start="0s" duration="5043/600s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="0806F95681B61298B9A7CC60565B88F1" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2014.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAHUHd6bpvQtPhLU17WUNmlMHf2zReaD4I4t8Kg2VtRBFAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDE0Lm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAdSaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg7xwAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <asset id="r9" name="yellow - 15" uid="82F76C16-A0D8-AFBC-39EF-70B15BDBF0B6" start="0s" duration="2141/600s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="8ED27442ECD540D3C030917A84889FD6" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2015.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAFrihN5Vr5KttZQe0ee4e3Jo6xTmXoGqII7hzZzo1F2yAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDE1Lm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAdiaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg8JYAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <asset id="r10" name="yellow - 16" uid="FDDAD82D-6467-38FF-E56C-D18C3401853F" start="0s" duration="11504/600s" hasVideo="1" format="r11" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="2A4DB8E5EBA4C5F996B028D794A77628" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2016.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAMGlF1Bkp3rEbLxv6qF30Bj5461IBevpsrMnwSYYMt/DAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDE2Lm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAdyaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg9HQAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="P3D65 (12-1-6)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <format id="r11" frameDuration="20/600s" width="720" height="1280" colorSpace="12-1-6 (P3D65 (12-1-6))"/>
+        <asset id="r12" name="yellow - 17" uid="1EE75099-4A04-61CC-6C4A-17F4D4828F42" start="0s" duration="2351/600s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="7944B7336D6225C3BBB7E08491464D27" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2017.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAEvkoBlY2jouEIsINQaULrhhfYHsQ6RET3R2MIXQNYAQAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDE3Lm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAeyaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwyg9aYAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <asset id="r13" name="yellow - 19" uid="88D6F893-058D-7DF4-D381-3EE7C9394456" start="0s" duration="3142/600s" hasVideo="1" format="r4" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="EE8D82AA5F11509CBC6CEC1BBA36C5D1" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2019.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAPuYZubZzlN4wMOqBI/4rmmQkv97P5o9qIlknFnWjaTfAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAPAAAAAQEAAHllbGxvdyAtIDE5Lm1vdgAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAfSaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBw1kZhoAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="P3D65 (12-1-6)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <asset id="r14" name="yellow - 3" uid="687CA5CD-EBF9-054B-FE52-C42EA227F6AC" start="0s" duration="25319/600s" hasVideo="1" format="r15" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="9BC335CFBE6F9D217D51027D1EDE4320" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%203.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAANc6VyWdIENMd3jkjaRTRvYEDJvkKxn+6i4i6nCpLiU3AAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAOAAAAAQEAAHllbGxvdyAtIDMubW92AAAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAaiaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwcUv84AAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <format id="r15" name="FFVideoFormat1080p30" frameDuration="20/600s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r16" name="yellow - 6" uid="85D98602-C1AB-0DD4-76CF-66CF5CDCB8A9" start="0s" duration="2742/600s" hasVideo="1" format="r15" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="D4DFB243CF9C282414A703E57DF2906D" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%206.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAKcuP9uat9sdfzPV+YwcGrduZYDZpUja4zAhAX9Xy6BhAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAOAAAAAQEAAHllbGxvdyAtIDYubW92AAAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAbSaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwd7V3gAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <asset id="r17" name="yellow - 8" uid="A74C2F38-9742-8361-5ECC-B2E745EED2A5" start="0s" duration="941/600s" hasVideo="1" format="r18" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="113BD1B148926D080B25358131FAE9AD" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%208.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAMWN+Q8LMWt1AeyTMfTveKP1QaH837LA4jU8MvJDDHy9AAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAOAAAAAQEAAHllbGxvdyAtIDgubW92AAAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAbyaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBweLnooAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="P3D65 (12-1-6)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+        <format id="r18" name="FFVideoFormat1080p30" frameDuration="20/600s" width="1920" height="1080" colorSpace="12-1-6 (P3D65 (12-1-6))"/>
+        <asset id="r19" name="yellow - 9" uid="8D320AB7-A880-B859-233A-BB2CED80B68B" start="0s" duration="3182/600s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="3267489CEA1E145A518D1E3271743F97" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%209.mov">
+                <bookmark>Ym9va4gDAAAAAAUQQAAAAC5A69tlV1KG2as509bzKqT5/RSemACaNHy8Pc4chR8eAAAAAAAAAAAAAAAAAAAAAEQCAAAEAAAAAwMAAAAYACgFAAAAAQEAAFVzZXJzAAAADQAAAAEBAABkaXZ5YW5la2thbnRpAAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAAeWVsbG93X2RlbW9fdmlkZW8AAAAOAAAAAQEAAHllbGxvdyAtIDkubW92AAAUAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAACAAAAAQDAABkQgAAAAAAAAgAAAAEAwAAdyEEAAAAAAAIAAAABAMAAH8hBAAAAAAACAAAAAQDAAABGZICAAAAAAgAAAAEAwAAcCaSAgAAAAAUAAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAACAAAAAAEAABBwx8fiwAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAgAAAAEAAAAAwMAAAMAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIEWM0AEAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADU3Q0Q1NURGLTM4RjYtNDY5RS1CNEUwLTdCRENCNUIyMzk2OBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAALwAAAAEBAABOU1VSTEJvb2ttYXJrUXVhcmFudGluZU1vdW50ZWROZXR3b3JrVm9sdW1lc0tleQD8AAAA/v///wEAAAAAAAAAFAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAFQQAAA8AQAAAAAAAFUQAABIAQAAAAAAAFYQAAA0AQAAAAAAAAIgAAAAAgAAAAAAAAUgAABwAQAAAAAAABAgAACAAQAAAAAAABEgAAC0AQAAAAAAABIgAACUAQAAAAAAABMgAACkAQAAAAAAACAgAADgAQAAAAAAADAgAAA0AQAAAAAAAAHAAABUAQAAAAAAABHAAAAgAAAAAAAAABLAAABkAQAAAAAAABDQAAAEAAAAAAAAAAwCAIA0AQAAAAAAAA==</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>H.264</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-04-29 13:00:05 -0700"/>
+            </metadata>
+        </asset>
+    </resources>
+    <library location="file:///Users/divyanekkanti/Movies/yellow_demo.fcpbundle/">
+        <event name="Lume Export" uid="855E67AC-8535-4C37-B756-483881C55986">
+            <project name="yellow_demo" uid="1DF7F2DD-0112-48CC-8119-7C15145A8A2A" modDate="2026-04-29 13:01:21 -0700">
+                <sequence format="r1" duration="91431340/600600s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+                    <spine>
+                        <asset-clip ref="r2" offset="0s" name="yellow - 11" duration="3700/600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r3" offset="3700/600s" name="yellow - 12" duration="954954/30030s" tcFormat="NDF" audioRole="dialogue">
+                            <filter-video ref="r5" name="Custom LUT">
+                                <data key="effectConfig">YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGlCwwVFhdVJG51bGzTDQ4PEBIUV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhEYACoROAA4AEXXBsdWdpblZlcnNpb24QAtIYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5oxocHVxOU0RpY3Rpb25hcnlYTlNPYmplY3QIERokKTI3SUxRU1lfZm55gIKEhoiKmJqfqrPJzdoAAAAAAAABAQAAAAAAAAAeAAAAAAAAAAAAAAAAAAAA4w==</data>
+                                <param name="LUT" key="3" value="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIG96eG1sc2NlbmU+Cjxvem1sIHZlcnNpb249IjUuMTQiPgoKPGZhY3RvcnkgaWQ9IjEiIHV1aWQ9IjRkMGU0OGQ4NGZjYTQyNGQ4MmFhOThhMDI3YzZlYzVjIj4KCTxkZXNjcmlwdGlvbj5DaGFubmVsPC9kZXNjcmlwdGlvbj4KCTxtYW51ZmFjdHVyZXI+QXBwbGU8L21hbnVmYWN0dXJlcj4KCTx2ZXJzaW9uPjE8L3ZlcnNpb24+CjwvZmFjdG9yeT4KCgo8cGFyYW1ldGVyIG5hbWU9IkxVVCIgaWQ9IjMiIGZsYWdzPSI0Mjk1MDMyODQ4Ij4KCTxmbGFncz40Mjk1MDMyODQ4PC9mbGFncz4KCTxudW1iZXJPZktleXBvaW50cz4wPC9udW1iZXJPZktleXBvaW50cz4KCTxkZWZhdWx0VmFsPioqKioqKioqKjZVZU1iLWdPTEJvQTExSSpFNjEtKkk0LWtkTTc1TlpRYkJkUHF0Tjc0M21NcVZkUmFKbUowRm9Qci1NNzR4V09hSlhSNUFHKio0NGMzd0Uxb3RIR3FKdE5LRi1RYUJjT0xOWlFoMjYwSjZZQTYqLWNVZ0FKR0ZpUktsZ0kqVUY0V0VkQVhSN0gyeEZKM2MqKioqKioqKi0qRSoqKioqKioqKkIqKioqKioqKioqKioqKioqKioqKktrKio8L2RlZmF1bHRWYWw+Cgk8ZGF0YVZhbHVlPioqKioqKioqKjl3ZU1iLWdPTEJvQTExSSpFNjEtKkk0LWtkTTc1TlpRYkJkUHF0Tjc0M21NcVZkUmFKbUowRm9Qci1NNzR4V09hSlhSNUFHKio0NGMzd0Uxb3RIR3FKdE5LRi1RYUJjT0xOWlFoMjYwSjZZQTYqLWNVZ0FKR0ZpUktsZ0xsKnBOYTZwQmE2ckJIKmtDNEJhQW5NbkJILVdNYUVyQVgqa0FxN1dNSE1sQTFZdVA1SmhOSndtQTE2cUExRW1DSndsQ0hJc0ExUTYyRmNZOEg2ckdJbERJSkZPKioqKioqKioqRTIqKioqKioqKioxRSoqKioqKioqKioqKioqKioqKio3Nio8L2RhdGFWYWx1ZT4KPC9wYXJhbWV0ZXI+Cgo8L296bWw+Cg=="/>
+                                <param name="Input" key="100/101" value="0 (Rec. 709)"/>
+                                <param name="Output" key="100/102" value="0 (Rec. 709)"/>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip ref="r6" offset="22802780/600600s" name="yellow - 13" duration="954954/30030s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r8" offset="41901860/600600s" name="yellow - 14" duration="5040/600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r9" offset="46946900/600600s" name="yellow - 15" duration="2140/600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r10" offset="49089040/600600s" name="yellow - 16" duration="4624620/600600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r12" offset="53713660/600600s" name="yellow - 17" duration="118118/30030s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r13" offset="56076020/600600s" name="yellow - 19" duration="3140/600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r14" offset="59219160/600600s" name="yellow - 3" duration="1267266/30030s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r16" offset="84564480/600600s" name="yellow - 6" duration="2740/600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r17" offset="87307220/600600s" name="yellow - 8" duration="940/600s" tcFormat="NDF" audioRole="dialogue"/>
+                        <asset-clip ref="r19" offset="88248160/600600s" name="yellow - 9" duration="3180/600s" tcFormat="NDF" audioRole="dialogue"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+        <smart-collection name="Projects" match="all">
+            <match-clip rule="is" type="project"/>
+        </smart-collection>
+        <smart-collection name="All Video" match="any">
+            <match-media rule="is" type="videoOnly"/>
+            <match-media rule="is" type="videoWithAudio"/>
+        </smart-collection>
+        <smart-collection name="Audio Only" match="all">
+            <match-media rule="is" type="audioOnly"/>
+        </smart-collection>
+        <smart-collection name="Stills" match="all">
+            <match-media rule="is" type="stills"/>
+        </smart-collection>
+        <smart-collection name="Favorites" match="all">
+            <match-ratings value="favorites"/>
+        </smart-collection>
+    </library>
+</fcpxml>
