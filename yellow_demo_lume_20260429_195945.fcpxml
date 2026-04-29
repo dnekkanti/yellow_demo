@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.11">
+    <resources>
+        <format id="r1" frameDuration="1001/30030s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+        <asset id="r2" name="yellow - 11" uid="3CEFB979-C89D-E3A1-D79A-11645475B60A" duration="185185/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2011.mov" />
+        </asset>
+        <asset id="r3" name="yellow - 12" uid="22EBE179-1AD3-2670-F2A0-7104D7AA9F15" duration="954954/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2012.mov" />
+        </asset>
+        <asset id="r4" name="yellow - 13" uid="D2286AD6-7763-3795-A728-FE28343E1EC4" duration="954954/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2013.mov" />
+        </asset>
+        <asset id="r5" name="yellow - 14" uid="BB73FDC1-BC9C-D11A-FAA3-20D6C002F9AE" duration="252252/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2014.mov" />
+        </asset>
+        <asset id="r6" name="yellow - 15" uid="82F76C16-A0D8-AFBC-39EF-70B15BDBF0B6" duration="107107/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2015.mov" />
+        </asset>
+        <asset id="r7" name="yellow - 16" uid="FDDAD82D-6467-38FF-E56C-D18C3401853F" duration="575575/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2016.mov" />
+        </asset>
+        <asset id="r8" name="yellow - 17" uid="1EE75099-4A04-61CC-6C4A-17F4D4828F42" duration="118118/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2017.mov" />
+        </asset>
+        <asset id="r9" name="yellow - 19" uid="88D6F893-058D-7DF4-D381-3EE7C9394456" duration="157157/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%2019.mov" />
+        </asset>
+        <asset id="r10" name="yellow - 3" uid="687CA5CD-EBF9-054B-FE52-C42EA227F6AC" duration="1267266/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%203.mov" />
+        </asset>
+        <asset id="r11" name="yellow - 4" uid="12B80191-2461-0AC7-F425-705809EDBB8F" duration="2962960/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%204.mov" />
+        </asset>
+        <asset id="r12" name="yellow - 6" uid="85D98602-C1AB-0DD4-76CF-66CF5CDCB8A9" duration="137137/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%206.mov" />
+        </asset>
+        <asset id="r13" name="yellow - 8" uid="A74C2F38-9742-8361-5ECC-B2E745EED2A5" duration="47047/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%208.mov" />
+        </asset>
+        <asset id="r14" name="yellow - 9" uid="8D320AB7-A880-B859-233A-BB2CED80B68B" duration="159159/30030s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Desktop/yellow_demo_video/yellow%20-%209.mov" />
+        </asset>
+    </resources>
+    <event name="Lume Export">
+        <project name="yellow_demo">
+            <sequence duration="7878871/30030s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+                <spine>
+                    <asset-clip name="yellow - 11" ref="r2" offset="0/30030s" duration="185185/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 12" ref="r3" offset="185185/30030s" duration="954954/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 13" ref="r4" offset="1140139/30030s" duration="954954/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 14" ref="r5" offset="2095093/30030s" duration="252252/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 15" ref="r6" offset="2347345/30030s" duration="107107/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 16" ref="r7" offset="2454452/30030s" duration="575575/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 17" ref="r8" offset="3030027/30030s" duration="118118/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 19" ref="r9" offset="3148145/30030s" duration="157157/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 3" ref="r10" offset="3305302/30030s" duration="1267266/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 4" ref="r11" offset="4572568/30030s" duration="2962960/30030s" start="0s" format="r1">
+                        <keyword start="0s" duration="2962960/30030s" value="Favorite" />
+                    </asset-clip>
+                    <asset-clip name="yellow - 6" ref="r12" offset="7535528/30030s" duration="137137/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 8" ref="r13" offset="7672665/30030s" duration="47047/30030s" start="0s" format="r1" />
+                    <asset-clip name="yellow - 9" ref="r14" offset="7719712/30030s" duration="159159/30030s" start="0s" format="r1" />
+                </spine>
+            </sequence>
+        </project>
+    </event>
+</fcpxml>
