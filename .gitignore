@@ -1,0 +1,21 @@
+# Lume .gitignore — generated automatically, do not edit manually.
+# Raw media
+*.mov
+*.mp4
+*.mxf
+*.r3d
+
+# Proxy / cache directories
+proxies/
+cache/
+hero_frames/
+*.proxy.*
+
+# OS noise
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Tracked by Lume: *.fcpxml, lume.db, luts/*.cube
